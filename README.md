@@ -26,8 +26,8 @@ This is a **User Management System** built using **Node.js, Express.js, MySQL, a
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/deshinenikarthik/User-Management-System.git
-   cd User-Management-System
+   git clone https://github.com/deshinenikarthik/NodeWithSQL.git
+   cd NodeWithSQL
    ```
 2. **Install dependencies**
    ```sh
