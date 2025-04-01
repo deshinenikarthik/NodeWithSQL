@@ -29,5 +29,5 @@ Ensure you have the following installed:
 ### Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/express-mysql-user-app.git
-   cd express-mysql-user-app
+   git clone https://github.com/deshinenikarthik/NodeWithSQL.git
+   cd NodeWithSQL
